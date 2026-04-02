@@ -18,6 +18,9 @@ I also manage digital marketing and automation for the insurance sector.
   <a href="https://www.linkedin.com/in/gabriel-luquette-paula-4885a4272">
     <img src="https://img.shields.io/badge/LinkedIn-GABRIEL%20LUQUETTE-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
